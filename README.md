@@ -5,7 +5,7 @@ The following Project are:
 
    ## <---------------------------------Supervised Learning ------------------------------->
 
-## Regression
+   ## Regression
 
 ### Project 1: Match Score Prediction using Linear Regression
 In this Project I take a dataset of Cricket Score from Cricinfo Website.The Dataset contains two attribute first attribute is Overs which is called X and Second attribute is Score which is called Y and dataset contain 20 instances mean 20 overs dataset and I Use a Simple Linear Regression Algorithm to predict the Score of 20th overs using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of Score.
@@ -24,5 +24,7 @@ In this Project I take a dataset of Delay in AIDS Reporting in England and Wales
 The time interval of the diagnosis. That is the number of quarters from July 1983 until the end of the quarter in which these cases were diagnosed and 'y'The number of AIDS cases reported.I Use a SVM  Regression Technique to predict Aid using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of Aids Report.
 Source: De Angelis, D. and Gilks, W.R. (1994) Estimating acquired immune deficiency syndrome accounting for reporting delay. Journal of the Royal Statistical Society, A, 157, 31–40.
 Reference: Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
+
+## Classificaion
 
 
