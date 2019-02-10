@@ -27,4 +27,8 @@ Reference: Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Ap
 
 ## Classificaion
 
+### Project 5: Cancer Remission and Cell Activity Prediction using the Naive Bayes Classifier
+In this Project I take a dataset of Cancer Remission and Cell Activity from Github/Rdatasets.The dataset contain The remission data frame has 27 rows and 3 columns.This data frame contains the following columns:"LI"A measure of cell activity."m"The number of patients in each group (all values are actually 1 here).and "r"The number of patients (out of m) who went into remission.I Use a Naive Bayes Classifiers Technique to predict The number of patients (out of m) who went into remission using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of The number of patients (out of m) who went into remission.
+Source:Freeman, D.H. (1987) Applied Categorical Data Analysis. Marcel Dekker
+Reference: Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
 
