@@ -1,8 +1,8 @@
 # Machine Learning
 I has Successfully completed Machine Learning course authorized by Stanford University and offer Through Coursera.I have also done  different courses from Udemy Some course base on Libraries Some base on theoratical and Some base on Practical which I have learn I have also read different blogs, research papers to boost up my machine Learning concept.After learn all of this I make a diferrent projects on Machine Learning which I upload in this Repositories taken dataset from different Sources like UCI, Kaggle, Reddit etc.I also done #100DaysMLCode Challenges.I also writing a blog on Machine Learning artices from Scratch on medium.I have a Publication  on Machine Learning base on Supervised Machine Learning Algorithm.
-Reference:'Performance Evaluation of Supervised Machine Learning Classifiers for Predicting Healthcare Operational Decisions'.
+Reference of my paper:'Performance Evaluation of Supervised Machine Learning Classifiers for Predicting Healthcare Operational Decisions'.
 
-The following Projects are:
+The following Projects which I have done In Deep Learning::
 
    ## <---------------------------------Supervised Learning ------------------------------->
 
