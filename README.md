@@ -122,7 +122,7 @@ classifiers. The classes are separable, though only RDA
 has achieved 100% correct classification. 
 (RDA : 100%, QDA 99.4%, LDA 98.9%, 1NN 96.1% (z-transformed data)) 
 (All results using the leave-one-out technique) 
-(2) S. Aeberhard, D. Coomans and O. de Vel, 
+(2) S. Aeberhard, D. Coomans and O.de Vel, 
 "THE CLASSIFICATION PERFORMANCE OF RDA" 
 Tech. Rep. no. 92-01, (1992), Dept. of Computer Science and Dept. of 
 Mathematics and Statistics, James Cook University of North Queensland. 
