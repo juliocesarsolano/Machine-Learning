@@ -16,37 +16,37 @@ In this Project I take a dataset of Cricket Score from Cricinfo Website.The Data
 
 ### Project 2: Heart Rate of Rabbits Prediction using Decision Tree Regression
 In this Project I take a dataset of Heart rate baroreflexes for rabbits from Reddit Website.The dataset contains measurements of mean arterial pressure (mmHG) and heart rate (b/min) for a baroreflex curve.A data frame with 18 observations on the following 2 variables.first attribute is 'pressure' a numeric vector containing measurements of arterial pressure.Second Attribute is 'rate'a numeric vector containing measurements of heart rate. I Use a Decision Tree Regression Algorithm to predict the Heart Rate of Rabbits using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of Heart Rate of Rabbits.
-##### Source:
+#### Source:
 Ricketts, J. H. and Head, G. A. (1999) A five-parameter logistic equation for investigating asymmetry of curvature in baroreflex studies, Am. J. Physiol. (Regulatory Integrative Comp. Physiol. 46), 277, 441–454
 
 ### Project 3: Monthly Access Return Challenge Using the Random Forrest Regression
 In this Project I take a dataset of Monthly Access from Github/Rdatasets.The dataset contains 60 rows and 3 columns.The excess return for the Acme Cleveland Corporation are recorded along with those for all stocks listed on the New York and American Stock Exchanges were recorded over a five year period. These excess returns are relative to the return on a risk-less investment such a U.S. Treasury bills.This data frame contains the following columns:'month'A character string representing the month of the observation.'market'The excess return of the market as a whole.'acme'The excess return for the Acme Cleveland Corporation.I Use a Random Forrest Regression Technique to predict acme using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of acme.
-##### Source: 
+#### Source: 
 Simonoff, J.S. and Tsai, C.-L. (1994) Use of modified profile likelihood for improved tests of constancy of variance in regression. Applied Statistics, 43, 353–370.
-##### Reference: 
+#### Reference: 
 Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press
 
 ### Project 4: Delay in AIDS Reporting prediction using Support Vector Machine Regression
 In this Project I take a dataset of Delay in AIDS Reporting in England and Wales from Github/Rdatasets.The dataset contains The aids data frame has 570 rows and 6 columns.Although all cases of AIDS in England and Wales must be reported to the Communicable Disease Surveillance Centre, there is often a considerable delay between the time of diagnosis and the time that it is reported. In estimating the prevalence of AIDS, account must be taken of the unknown number of cases which have been diagnosed but not reported. The data set here records the reported cases of AIDS diagnosed from July 1983 and until the end of 1992. The data are cross-classified by the date of diagnosis and the time delay in the reporting of the cases.This data frame contains the following columns:'year'The year of the diagnosis.'quarter'The quarter of the year in which diagnosis was made.'delay'The time delay (in months) between diagnosis and reporting. 0 means that the case was reported within one month. Longer delays are grouped in 3 month intervals and the value of delay is the midpoint of the interval (therefore a value of 2 indicates that reporting was delayed for between 1 and 3 months).'dud'An indicator of censoring. These are categories for which full information is not yet available and the number recorded is a lower bound only.'time'
 The time interval of the diagnosis. That is the number of quarters from July 1983 until the end of the quarter in which these cases were diagnosed and 'y'The number of AIDS cases reported.I Use a SVM  Regression Technique to predict Aid using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of Aids Report.
-##### Source: 
+#### Source: 
 De Angelis, D. and Gilks, W.R. (1994) Estimating acquired immune deficiency syndrome accounting for reporting delay. Journal of the Royal Statistical Society, A, 157, 31–40.
-##### Reference: 
+#### Reference: 
 Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
 
 ## Classificaion
 
 ### Project 5: Cancer Remission and Cell Activity Prediction using the Naive Bayes Classifier
 In this Project I take a dataset of Cancer Remission and Cell Activity from Github/Rdatasets.The dataset contain The remission data frame has 27 rows and 3 columns.This data frame contains the following columns:"LI"A measure of cell activity."m"The number of patients in each group (all values are actually 1 here).and "r"The number of patients (out of m) who went into remission.I Use a Naive Bayes Classifiers Technique to predict The number of patients (out of m) who went into remission using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of The number of patients (out of m) who went into remission which gave the accuracy 83.33%.
-##### Source:
+#### Source:
 Freeman, D.H. (1987) Applied Categorical Data Analysis. Marcel Dekker
-##### Reference: 
+#### Reference: 
 Davison, A.C. and Hinkley, D.V. (1997) Bootstrap Methods and Their Application. Cambridge University Press.
 
 ### Project 6: Email Spam Filtering Using the Decsion Tree Classifier
 In this Project I take a dataset of  Email Spam Filtering from UCI Repository.The data consist of 4601 email items, of which 1813 items were identified as spam.This data frame contains the following columns:"crl.tot":total length of words in capitals."dollar":number of occurrences of the \$ symbol."bang":number of occurrences of the ! symbol."money":number of occurrences of the word ‘money’.
 "n000":number of occurrences of the string ‘000’."make":number of occurrences of the word ‘make’."yesno":outcome variable, a factor with levels n not spam, y spam.I Use a Decision Tree Classifiers Technique to predictoutcome variable, a factor with levels n not spam, y spam using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of The number of outcome variable, a factor with levels n not spam, y spam which gave the accuracy 85.12%.
-##### Source:
+#### Source:
 These data are available from the University of California at Irvine Repository of Machine Learning Databases and Domain Theories.
 
 ### Project 7: Social_Network_Ads Challenges Using the Random Forrest Classifier
@@ -61,13 +61,13 @@ In this Project I take a dataset of Social_Network_Ads from UCI Repository.This 
 
 ### Project 9: Breast Cancer Coimbra Dataset (UCI) prediction using Logistic Regression
 In this Project I take a dataset of Breast Cancer Coimbra from UCI Repository.There are 10 predictors, all quantitative, and a binary dependent variable, indicating the presence or absence of breast cancer.The predictors are anthropometric data and parameters which can be gathered in routine blood analysis. Prediction models based on these predictors, if accurate, can potentially be used as a biomarker of breast cancer.Attribute Information:Quantitative Attributes: Age (years),BMI (kg/m2) , Glucose (mg/dL) ,Insulin (µU/mL) , HOMA ,Leptin (ng/mL) ,Adiponectin (µg/mL) ,Resistin (ng/mL) ,MCP-1(pg/dL) , Labels: 1=Healthy controls ,2=Patients.I Use a Logistic Regression Technique to predict the classification attribute Labels: 1=Healthy controls ,2=Patients using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of classification attribute Labels: 1=Healthy controls ,2=Patients which gave the accuracy 62.50%.
-##### Reference: 
+#### Reference: 
 1.	Hyperresistinemia and metabolic dysregulation: a risky crosstalk in obese breast cancer. 
 2.	Using Resistin, glucose, age and BMI to predict the presence of breast cancer
 
 ### Project 10: Blood Transfusion DataSet(UCI) prediction using SVM Classifier
 In this Project I take a dataset of Blood Transfusion Service Center from UCI Repository.To demonstrate the RFMTC marketing model (a modified version of RFM), this study adopted the donor database of Blood Transfusion Service Center in Hsin-Chu City in Taiwan. The center passes their blood transfusion service bus to one university in Hsin-Chu City to gather blood donated about every three months. To build a FRMTC model, we selected 748 donors at random from the donor database. These 748 donor data, each one included R (Recency - months since last donation), F (Frequency - total number of donation), M (Monetary - total blood donated in c.c.), T (Time - months since first donation), and a binary variable representing whether he/she donated blood in March 2007 (1 stand for donating blood; 0 stands for not donating blood).I Use a Support Vector Machine Classifier approach to predict class(1 stand for donating blood; 0 stands for not donating blood) using the Scikit Learn Library.Basically I use 80% data for training and 20% for Testing Base on Testing I make a prediction of class(1 stand for donating blood; 0 stands for not donating blood)of which gave the accuracy 72.66%.
-##### Reference: 
+#### Reference: 
 Yeh, I-Cheng, Yang, King-Jang, and Ting, Tao-Ming, "Knowledge discovery on RFM model using Bernoulli sequence," Expert Systems with Applications, 2008.
 
 ## <------------------------------Unsupervised Learning ---------------------------->
@@ -98,7 +98,7 @@ In this Project I take a dataset of Wine taken from UCI.These data are the resul
 ##### Source: 
 Forina, M. et al, PARVUS - An Extendible Package for Data Exploration, Classification and Correlation. 
 Institute of Pharmaceutical and Food Analysis and Technologies, Via Brigata Salerno, 16147 Genoa, Italy. 
-##### Relevant Papers:
+#### Relevant Papers:
 1.	S. Aeberhard, D. Coomans and O. de Vel, Comparison of Classifiers in High Dimensional Settings, Tech. Rep. no. 92-02, (1992), Dept. of Computer Science and Dept. of Mathematics and Statistics, James Cook University of North Queensland. (Also submitted to Technometrics). The data was used with many others for comparing various classifiers. The classes are separable, though only RDA has achieved 100% correct classification. (RDA : 100%, QDA 99.4%, LDA 98.9%, 1NN 96.1% (z-transformed data)) (All results using the leave-one-out technique) 
 2.	S. Aeberhard, D. Coomans and O. de Vel, "THE CLASSIFICATION PERFORMANCE OF RDA" Tech. Rep. no. 92-01, (1992), Dept. of Computer Science and Dept. of Mathematics and Statistics, James Cook University of North Queensland. (Also submitted to Journal of Chemometrics). Here, the data was used to illustrate the superior performance of the use of a new appreciation function with RDA.
 
@@ -110,7 +110,7 @@ Source: Forina, M. et al, PARVUS -
 An Extendible Package for Data Exploration, Classification and Correlation. 
 Institute of Pharmaceutical and Food Analysis and Technologies, Via Brigata Salerno, 
 16147 Genoa, Italy. 
-##### Relevant Papers:
+#### Relevant Papers:
 1.	S. Aeberhard, D. Coomans and O. de Vel, Comparison of Classifiers in High Dimensional Settings, Tech. Rep. no. 92-02, (1992), Dept. of Computer Science and Dept. of Mathematics and Statistics, James Cook University of North Queensland. (Also submitted to Technometrics). The data was used with many others for comparing various classifiers. The classes are separable, though only RDA has achieved 100% correct classification. (RDA : 100%, QDA 99.4%, LDA 98.9%, 1NN 96.1% (z-transformed data)) (All results using the leave-one-out technique) 
 2.	S. Aeberhard, D. Coomans and O. de Vel, "THE CLASSIFICATION PERFORMANCE OF RDA" Tech. Rep. no. 92-01, (1992), Dept. of Computer Science and Dept. of Mathematics and Statistics, James Cook University of North Queensland. (Also submitted to Journal of Chemometrics). Here, the data was used to illustrate the superior performance of the use of a new appreciation function with RDA.
 
