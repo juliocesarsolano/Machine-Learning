@@ -95,7 +95,7 @@ In this Project I take a dataset of Mall Customers from Kaggle.This Dataset have
 ### Project 15: Wine dataset from(UCI) using the Principle Component Analysis(PCA) technique
 In this Project I take a dataset of Wine taken from UCI.These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.Initial data set had around 30 variables, but for some reason Only have the 13 dimensional version.The attributes are:1) Alcohol 2) Malic acid 3) Ash 4) Alcalinity of ash 5) Magnesium 6) Total phenols 7) Flavanoids 8) Nonflavanoid phenols 
 9) Proanthocyanins 10)Color intensity 11)Hue 12)OD280/OD315 of diluted wines 13)Proline. All attributes are continuous :No statistics available, but suggest to standardise variables for certain uses (e.g. for us with classifiers which are NOT scale invariant) NOTE: 1st attribute is class identifier (1-3).I use the PCA technique for Dimensionality Reduction of wine dataset.
-##### Source: 
+#### Source: 
 Forina, M. et al, PARVUS - An Extendible Package for Data Exploration, Classification and Correlation. 
 Institute of Pharmaceutical and Food Analysis and Technologies, Via Brigata Salerno, 16147 Genoa, Italy. 
 #### Relevant Papers:
