@@ -4,6 +4,17 @@ I have a Great Experience in Machine Learning.I has Successfully completed Machi
 1.	https://www.researchgate.net/publication/329277388_Application_of_Multilayer_Perceptron_MLP_for_Data_Mining_in_Healthcare_Operations
 2.	https://www.researchgate.net/publication/329515048_Performance_Evaluation_of_Supervised_Machine_Learning_Classifiers_for_Predicting_Healthcare_Operational_Decisions
 
+#### My Certificates on Machine Learning:
+1.	https://drive.google.com/file/d/1afHP7_PGjc-LH64EqfJyz4cCzjXSaTt-/view
+2.	https://www.udemy.com/certificate/UC-L678X9E4/
+3.	https://www.udemy.com/certificate/UC-ZAMSD4GK/
+4.	https://drive.google.com/file/d/1gojuEIeX8r4h5uB5HorlW2vDaYryOS0u/view
+5.	https://drive.google.com/file/d/18QSYhkc6GjNhjKIih8YU7e0F_XDuCj4P/view
+
+
+#### My Blog on Machine Learning:
+https://medium.com/machine-learning-researcher
+
 
 The following Projects which I have done In Machine Learning::
 
