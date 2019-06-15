@@ -16,7 +16,7 @@ https://www.linkedin.com/in/amiralicheema/
 ##### 1st Book: Hands on Machine Learning with Scikit-Learn
 https://www.amazon.com/dp/1090626797
 ##### 2nd Book: Deep Learning Objective
-https://www.amazon.com/dp/1090626797
+https://www.amazon.com/dp/1070238945
 
 #### My Certificates on Machine Learning:
 1.	https://drive.google.com/file/d/1afHP7_PGjc-LH64EqfJyz4cCzjXSaTt-/view
