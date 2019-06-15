@@ -10,13 +10,12 @@ https://www.linkedin.com/in/amiralicheema/
 #### My Research Poster Link:
 1.	https://www.researchgate.net/publication/332210780_Effective_Prediction_Findings_Using_Decision_Tree_Classification_A_Social_Network_Ads_Challenge
 2.	https://www.researchgate.net/publication/332210663_Cancer_Remission_and_Cell_Activity_Classification_System_Based_on_Applied_Categorical_Naive_Bayes_Analysis
-3.
-https://www.researchgate.net/publication/332209067_Foundational_Practical_Approach_for_Quality_Predictions_Based_on_Simple_Linear_Regression
+3. https://www.researchgate.net/publication/332209067_Foundational_Practical_Approach_for_Quality_Predictions_Based_on_Simple_Linear_Regression
 
 #### My Books
 ##### 1st Book: Hands on Machine Learning with Scikit-Learn
 https://www.amazon.com/dp/1090626797
-##### 2st Book: Deep Learning Objective
+##### 2nd Book: Deep Learning Objective
 https://www.amazon.com/dp/1090626797
 
 #### My Certificates on Machine Learning:
@@ -33,7 +32,7 @@ https://medium.com/machine-learning-researcher
 
 The following Projects which I have done In Machine Learning::
 
-   ## <---------------------------------Supervised Learning ------------------------------->
+   ## <------------------------------Supervised Learning ---------------------------->
 
 ## Regression
 
