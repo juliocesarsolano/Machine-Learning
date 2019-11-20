@@ -4,11 +4,11 @@ In this repository, I upload my Complete Machine Learning code which I have lear
 #### Our Machine Learning Blog
 ###### Link: https://medium.com/machine-learning-researcher
 
-#### Book that we have to write on Machine Learning Topic Available on Amazon
+#### Book that we write on Machine Learning Topic Available on Amazon
 ###### Title: Hands-on Machine Learning with Scikit-Learn
 ###### Link: https://www.amazon.com/dp/1090626797
 
-###### These are following Projects that I have done in Machine Learning
+##### These are following Projects that I have done in Machine Learning
   
  ## <------------------------------Supervised Learning ---------------------------->
 
